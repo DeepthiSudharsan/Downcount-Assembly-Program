@@ -13,7 +13,7 @@
 * DOWNCOUNT.hack - Hack assembler output file (generated from the Hack assembler python code)
 * HACK_ASSEMBLER.ipynb - Hack assembler python code
 
-The HDL code for the chips have also been uploaded
+The HDL code for the chips (InstructionMemory, Memory, CPU, ComputerChip and then others like ROM32K,RAM16K,Not,Mux16,Or,And,ALU,DRegister,PC) have also been uploaded
 
 ## SNIPPET FROM THE PROJECT
 
