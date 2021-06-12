@@ -14,6 +14,7 @@
 * HACK_ASSEMBLER.ipynb - Hack assembler python code
 
 The HDL code for the chips (InstructionMemory, Memory, CPU, ComputerChip and then others like ROM32K,RAM16K,Not,Mux16,Or,And,ALU,DRegister,PC) have also been uploaded
+The report for the project - EOC_downcount.pdf
 
 ## SNIPPET FROM THE PROJECT
 
