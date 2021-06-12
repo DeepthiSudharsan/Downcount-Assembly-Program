@@ -1,0 +1,9 @@
+CHIP InstructionMemory {
+    IN ad[15];
+    OUT output[16];
+
+    PARTS:
+	
+    ROM32K(address=ad,out=output);
+    
+}
