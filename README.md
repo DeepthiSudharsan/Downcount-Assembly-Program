@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/59824729/121766678-6ddee800-cb71-11eb-930f-ee4bdea8a1ac.png)
 
-## Pre-requisites
+## PRE-REQUISITES
 
 * Jupyter Notebook
 * Nand2Tetris
@@ -21,7 +21,7 @@ CPU Emulator Output
 
 ![image](https://user-images.githubusercontent.com/59824729/121766779-02494a80-cb72-11eb-8df9-3b2f504f7aca.png)
 
-## References
+## REFERENCES
 
 * https://computersciencewiki.org/index.php/Architecture_of_the_central_processing_unit_(CPU)
 * https://quickcse.wordpress.com/category/computer-organization-architecture/
